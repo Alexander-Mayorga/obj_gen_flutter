@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\small\Documents\image_segmentation\RecursiveFlutter\recursive_flutter\native_opencv\android\.cxx\cmake\debug\x86'
+ninja: no work to do.

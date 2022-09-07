@@ -1,0 +1,7 @@
+Executable : C:\Users\small\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\small\Documents\image_segmentation\RecursiveFlutter\recursive_flutter\native_opencv\android\.cxx\cmake\debug\x86_64
+native_opencv
+jvmArgs : 
+

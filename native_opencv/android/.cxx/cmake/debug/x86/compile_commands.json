@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/small/Documents/image_segmentation/RecursiveFlutter/recursive_flutter/native_opencv/android/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\small\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/small/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/small/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_opencv_EXPORTS -I../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native_opencv.dir\\db0f0cb227164c15359ea9942710994f\\recursive_flutter\\native_opencv\\ios\\Classes\\native_opencv.cpp.o -c C:\\Users\\small\\Documents\\image_segmentation\\RecursiveFlutter\\recursive_flutter\\native_opencv\\ios\\Classes\\native_opencv.cpp",
+  "file": "C:\\Users\\small\\Documents\\image_segmentation\\RecursiveFlutter\\recursive_flutter\\native_opencv\\ios\\Classes\\native_opencv.cpp"
+}
+]
